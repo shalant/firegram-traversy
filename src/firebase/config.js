@@ -7,11 +7,12 @@ import 'firebase/firestore';
   var firebaseConfig = {
     apiKey: "AIzaSyBbEcLZI-EOVuROYw9oNOsDRPf3eZGwxHY",
     authDomain: "ninja-firegram-1b134.firebaseapp.com",
-    databaseURL: "https://ninja-firegram.firebaseio.com",
+    databaseURL: "https://ninja-firegram-1b134-default-rtdb.firebaseio.com",
     projectId: "ninja-firegram-1b134",
     storageBucket: "ninja-firegram-1b134.appspot.com",
     messagingSenderId: "711766037504",
     appId: "1:711766037504:web:df26260c1da2367c9ab4e5",
+    measurementId: "G-1HXJHHZQZW"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
